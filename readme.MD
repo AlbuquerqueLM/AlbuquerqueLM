@@ -1,5 +1,3 @@
-![capa](https://i.gifer.com/NvL.gif)
-
 <!-- Insígnias! -->
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
@@ -49,3 +47,5 @@ I enjoy creating projects that break the mold. My portfolio is always evolving w
 ☛ LinkedIn: [linkedin.com/in/l-m-albuquerque](https://www.linkedin.com/in/l-m-albuquerque)  
 ☛ Discord: `albuquerque.lm`  
 ☛ Instagram: [instagram.com/albuquerque.lm](https://www.instagram.com/albuquerque.lm/)
+
+![capa](https://i.gifer.com/NvL.gif) width=50%
