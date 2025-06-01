@@ -42,4 +42,4 @@ I enjoy creating projects that break the mold. My portfolio is always evolving w
 ☛ Discord: `albuquerque.lm`  
 ☛ Instagram: [instagram.com/albuquerque.lm](https://www.instagram.com/albuquerque.lm/)
 
-![capa](https://i.gifer.com/NvL.gif) width=50%
+![capa](https://i.gifer.com/NvL.gif) 
