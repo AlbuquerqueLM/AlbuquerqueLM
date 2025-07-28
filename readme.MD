@@ -38,7 +38,7 @@ I enjoy creating projects that break the mold. My portfolio is always evolving w
 
 ## ☛ Onde me encontrar / Where to find me:
 
-☛ LinkedIn: [Albuquerque](www.linkedin.com/in/dev-albuquerque)  
+☛ LinkedIn: [Albuquerque](https://www.linkedin.com/in/dev-albuquerque/)  
 ☛ Discord: `albuquerque.lm`  
 ☛ Instagram: [Albuquerque](https://www.instagram.com/albuquerque.lm/)
 
