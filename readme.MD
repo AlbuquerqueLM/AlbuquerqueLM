@@ -12,27 +12,19 @@
 
 # Albuquerque
 
-⌛ Saudações, eu me chamo **Albuquerque**
+⌛ Olá, eu sou Albuquerque.
 
-Estou em constante evolução, claramente inclinado à área de **Front-End**, na qual estou trabalhando com **HTML, CSS, JavaScript** e **React**.
+Desenvolvedor e criador versátil, trabalho com Front-End (HTML, CSS, JavaScript, React) e também exploro Back-End, banco de dados e Web Design, sempre em busca de soluções inovadoras e projetos fora do comum. Comecei como autodidata e me aprofundei em cursos da Alura, SENAI e Fundação Bradesco.
 
-Comecei como autodidata, mas com o tempo e a vontade de me aprofundar optei por cursos de peso em tecnologia como **Alura**, **SENAI** e **Fundação Bradesco**.
-
-Gosto de criar projetos fora do convencional. Meu portfólio está sempre em construção, recheado com ideias diferentes e ousadas.
-
-✍️ Fora da tecnologia, sou **escritor de ficção**, com **dois livros publicados** e reconhecidos pela **Câmara Brasileira do Livro**. Criar, organizar e contar histórias é uma das minhas maiores paixões, e tento sempre unir esses interesses em um único propósito.
+✍️ Fora da tecnologia, sou escritor de ficção, com dois livros publicados e reconhecidos pela Câmara Brasileira do Livro. Criar e contar histórias é uma paixão que também inspira meus projetos digitais.
 
 ![divisória](https://www.imagensanimadas.com/data/media/134/linha-divisoria-imagem-animada-0242.gif)
 
-⌛ Greetings! I'm **Albuquerque**
+⌛ Hi, I’m Albuquerque.
 
-I'm in constant evolution, clearly focused on the **Front-End** area, working with **HTML, CSS, JavaScript** and **React**.
+A versatile developer and creator, I work with Front-End (HTML, CSS, JavaScript, React) and also explore Back-End, databases, and Web Design, always seeking innovative solutions and unconventional projects. I started as a self-taught developer and deepened my knowledge through courses at Alura, SENAI, and Fundação Bradesco.
 
-I started as a self-taught learner, but over time and driven by the desire to go deeper I chose solid education paths with courses from **Alura**, **SENAI**, and **Fundação Bradesco**.
-
-I enjoy creating projects that break the mold. My portfolio is always evolving with different and bold ideas.
-
-✍️ Outside of tech, I'm a **fiction writer** with **two published books** recognized by the **Brazilian Book Chamber**. I love crafting, organizing, and telling stories — and I try to unite all these passions into a single purpose.
+✍️ Outside of technology, I’m a fiction writer with two published books recognized by the Brazilian Book Chamber. Creating and telling stories is a passion that also inspires my digital projects.
 
 ![divisória](https://www.imagensanimadas.com/data/media/134/linha-divisoria-imagem-animada-0242.gif)
 
