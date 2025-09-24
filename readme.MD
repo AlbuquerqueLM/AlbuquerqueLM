@@ -34,4 +34,3 @@ A versatile developer and creator, I work with Front-End (HTML, CSS, JavaScript,
 ☛ Discord: `albuquerque.lm`  
 ☛ Instagram: [Albuquerque](https://www.instagram.com/albuquerque.lm/)
 
-![capa](https://i.gifer.com/NvL.gif) 
