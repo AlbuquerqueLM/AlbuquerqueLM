@@ -12,19 +12,19 @@
 
 # Albuquerque
 
-⌛ Olá, eu sou Albuquerque.
+➤ Olá, eu sou Albuquerque.
 
 Desenvolvedor e criador versátil, trabalho com Front-End (HTML, CSS, JavaScript, React) e também exploro Back-End, banco de dados e Web Design, sempre em busca de soluções inovadoras e projetos fora do comum. Comecei como autodidata e me aprofundei em cursos da Alura, SENAI e Fundação Bradesco.
 
-✍️ Fora da tecnologia, sou escritor de ficção, com dois livros publicados e reconhecidos pela Câmara Brasileira do Livro. Criar e contar histórias é uma paixão que também inspira meus projetos digitais.
+𒇹 Fora da tecnologia, sou escritor de ficção, com dois livros publicados e reconhecidos pela Câmara Brasileira do Livro. Criar e contar histórias é uma paixão que também inspira meus projetos digitais.
 
 ![divisória](https://www.imagensanimadas.com/data/media/134/linha-divisoria-imagem-animada-0242.gif)
 
-⌛ Hi, I’m Albuquerque.
+➤ Hi, I’m Albuquerque.
 
 A versatile developer and creator, I work with Front-End (HTML, CSS, JavaScript, React) and also explore Back-End, databases, and Web Design, always seeking innovative solutions and unconventional projects. I started as a self-taught developer and deepened my knowledge through courses at Alura, SENAI, and Fundação Bradesco.
 
-✍️ Outside of technology, I’m a fiction writer with two published books recognized by the Brazilian Book Chamber. Creating and telling stories is a passion that also inspires my digital projects.
+𒇹 Outside of technology, I’m a fiction writer with two published books recognized by the Brazilian Book Chamber. Creating and telling stories is a passion that also inspires my digital projects.
 
 ![divisória](https://www.imagensanimadas.com/data/media/134/linha-divisoria-imagem-animada-0242.gif)
 
