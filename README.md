@@ -2,7 +2,9 @@
 <h1 align="center"><img src="https://c.tenor.com/5oyBb-igem8AAAAd/tenor.gif" alt="Devgif1" width="20" /> Saudações, me chamam de Albuquerque <img src="https://c.tenor.com/5oyBb-igem8AAAAd/tenor.gif" alt="Devgif1" width="20" /> </h1> 
 
 <p align="center">
-  Desenvolvedor apaixonado por Python, Java e automação. Aqui no GitHub, compartilho projetos de programação, bots, jogos e muito mais.  <img src="https://media.tenor.com/TjwMUc2obFwAAAAj/portal-fire.gif" alt="gameboy" width="20"
+  Desenvolvedor apaixonado por Python, Java e automação. Aqui no GitHub.</p>
+  <p align="center">
+  Compartilho projetos de programação, bots, jogos e muito mais.  <img src="https://media.tenor.com/TjwMUc2obFwAAAAj/portal-fire.gif" alt="gameboy" width="20"
 </p>
 
 <!-- Aqui abaixo vai ser onde eu irei colocar as minhas insignias, vou focar nas linguagens que eu mais tenho afinidade, mas eu conheço bem mais, ein! -->
