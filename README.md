@@ -23,9 +23,9 @@
 <!-- Todos os títulos que vierem a partir daqui, eu criei a imagem e tirei o seu fundo, para que como png eu consiga redimensionar a imagem de acordo com o tamanho dos caracteres, me dando uma liberdade maior que só digitar o texto no git. -->
 ##  <img align="center" src="https://images2.imgbox.com/60/bf/mSb5LKTK_o.png" alt="Em_Resumo" width="300"/>
 
-- <img src="https://media.tenor.com/nSTFScxyuvMAAAAi/vamouz-mouz.gif" alt="black_arrow" width="20" /> Eu estou atualmente trabalhando em projetos pessoais com **Python**, **Java**, automações e bots.  
-- <img src="https://media.tenor.com/nSTFScxyuvMAAAAi/vamouz-mouz.gif" alt="black_arrow" width="20" /> Também faço lives na Twitch desenvolvendo jogos, criando roleplays e programando enquanto interajo com a comunidade.  
-- <img src="https://media.tenor.com/nSTFScxyuvMAAAAi/vamouz-mouz.gif" alt="black_arrow" width="20" /> Sempre estudando novas tecnologias: frameworks web, inteligência artificial, game dev.  
+- <img src="https://media.tenor.com/cFFVhpfMs_YAAAAi/vamouz-mouz.gif" alt="red_arrow" width="20" /> Eu estou atualmente trabalhando em projetos pessoais com **Python**, **Java**, automações e bots.  
+- <img src="https://media.tenor.com/cFFVhpfMs_YAAAAi/vamouz-mouz.gif" alt="red_arrow" width="20" /> Também faço lives na Twitch desenvolvendo jogos, criando roleplays e programando enquanto interajo com a comunidade.  
+- <img src="https://media.tenor.com/cFFVhpfMs_YAAAAi/vamouz-mouz.gif" alt="red_arrow" width="20" /> Sempre estudando novas tecnologias: frameworks web, inteligência artificial, game dev.  
 
 
 <img align="right" src="https://media.tenor.com/C4YNYmX7_woAAAAi/akaruu-robot.gif" alt="divisoria" width="70"/>
@@ -120,13 +120,13 @@ Aqui vão alguns repositórios que mostram bem o que posso fazer. Sinta-se à vo
 
 ## <img align="center" src="https://images2.imgbox.com/ed/17/UbeDVzos_o.png" alt="twitch" width="650"/>
 
-Faço lives na <img align="center" src="https://media.tenor.com/cXxyLBfDOUgAAAAi/streaming-twitch.gif" alt="twitch" width="30"/> <span style="color:purple"> Twitch </span> onde:
+Faço lives na <img align="center" src="https://media.tenor.com/cXxyLBfDOUgAAAAi/streaming-twitch.gif" alt="twitch" width="30"/> <span style="color:#9146FF;">Twitch</span> onde:
 
 - Programo bots, jogos e sistemas enquanto interajo com quem está assistindo.  
 - Trabalho em projetos de roleplay, automação e diversão.  
 - Compartilho ideias, dicas de programação e mostro meu processo de desenvolvimento ao vivo.
 
-<img src="https://media.tenor.com/nSTFScxyuvMAAAAi/vamouz-mouz.gif" alt="black_arrow" width="20"/>  Você pode me acompanhar aqui: [Meu canal na Twitch](https://www.twitch.tv/albuquerquelm/about)
+<img src="https://media.tenor.com/cFFVhpfMs_YAAAAi/vamouz-mouz.gif" alt="red_arrow" width="20" />  Você pode me acompanhar aqui: [Meu canal na Twitch](https://www.twitch.tv/albuquerquelm/about)
 
 <img align="left" src="https://media.tenor.com/MlHKXX_Uh40AAAAj/klick-click.gif" alt="divisoria" width="30"/>
 
