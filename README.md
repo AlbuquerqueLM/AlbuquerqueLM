@@ -97,9 +97,9 @@ Aqui vão alguns repositórios que mostram bem o que posso fazer. Sinta-se à vo
 
 | Projeto | Descrição |
 |--------|------------|
-| **Bate-Papo Java** | Um aplicativo de bate-papo online simples, desenvolvido em Java utilizando JavaFX. |
-| **Analise_Dados** | Este projeto simula um sistema de análise de vendas utilizando **SQLite** como banco de dados. |
-| **Cálculo_Salário** | Este projeto consiste em um programa em linguagem C que calcula o salário de um profissional que trabalha por hora. |
+| [**Bate-Papo Java**](https://github.com/AlbuquerqueLM/batepapo_java) | Um aplicativo de bate-papo online simples, desenvolvido em Java utilizando JavaFX. |
+| [**Analise_Dados**](https://github.com/AlbuquerqueLM/analise_dados) | Este projeto simula um sistema de análise de vendas utilizando **SQLite** como banco de dados. |
+| [**Cálculo_Salário**](https://github.com/AlbuquerqueLM/calculo_salario) | Este projeto consiste em um programa em linguagem C que calcula o salário de um profissional que trabalha por hora. |
 
 <!-- Lembrete pessoal: Eu vou precisar lembrar de colocar projetos novos em destaque de tempos em tempos. -->
 
