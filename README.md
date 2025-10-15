@@ -139,7 +139,7 @@ Se quiser me apoiar para continuar criando conteúdo, projetos e lives:
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C413DERN)
 <!-- Toda doação será bem vinda, eu sou muito novo em quesito de fazer lives e tentar ser mais comunicativo com uma comunidade que tenho construído pouco a pouco, se puder me ajudar, eu ficarei extremamente grato! -->
 
-<img align="right" src="https://media.tenor.com/ZGfvy1vT554AAAAi/call.gif" alt="divisoria" width="90"/>
+<img align="right" src="https://media.tenor.com/ZGfvy1vT554AAAAi/call.gif" alt="divisoria" width="70"/>
 
 ---
 
@@ -150,4 +150,3 @@ Se quiser me apoiar para continuar criando conteúdo, projetos e lives:
 
 ---
 
-<img align="center" src="link" alt="nome" width="20"/>
