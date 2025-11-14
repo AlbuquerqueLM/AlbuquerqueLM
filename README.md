@@ -51,7 +51,7 @@ public class LucasAlbuquerque {
         this.nome = "Lucas Manoel de Albuquerque";
         this.curso = new Curso("Engenharia de Software", "Anhanguera SP");
         this.atuacao = "Desenvolvedor Full Stack / Desenvolvedor de Bots / Engenheiro de Automação";
-        this.emprego = new Emprego("Freelancer", "Atualmente em busca de novas oportunidades");
+        this.emprego = new Emprego("Desenvolvedor Júnior", "Atualmente trabalhando na Soirtec");
         this.conhecimentos = new String[] {
             "Automação de Processos", "Criação de Bots", "APIs", 
             "Git & GitHub", "Desenvolvimento Web", "Game Dev", "Inteligência Artificial"
